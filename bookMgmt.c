@@ -1,4 +1,5 @@
 /*
+Custom Project for myself to study for Final 
 1.Define a Book structure to store information about a book, including:
 title (dynamically allocated string).
 author (dynamically allocated string).
